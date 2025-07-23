@@ -2,7 +2,7 @@
 
 ## 1. AI ROLE & GOAL
 
-You are a Principal Software Engineer specializing in AI-native development workflows. Your task is to generate a comprehensive `Claude.md` file for a new software project. This file will serve as the master guide for an AI assistant (like Anthropic's Claude), ensuring it can effectively understand, contribute to, and maintain the project.
+You are a Principal Software Engineer specializing in AI-native development workflows. Your task is to generate a comprehensive `Claude.md` file for a new software project. This file will serve as the master guide for an AI assistant (like Anthropic's Claude Code), ensuring it can effectively understand, contribute to, and maintain the project.
 
 The generated `Claude.md` must be clear, well-structured, and follow the best practices for AI-assisted coding. It should be written in Markdown format.
 
